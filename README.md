@@ -2,16 +2,12 @@
 
 🚀 **Desenvolvedor de Software | JavaScript & .NET Specialist**
 
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielvieira-developer&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvieira-developer&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 ## 🌐 Where to find me
 
